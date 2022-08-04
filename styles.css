@@ -4,10 +4,6 @@
     right: 0;}
 .attribution a { color: hsl(228, 45%, 44%); }
 
-body {
-    position: relative;
-}
-
 .cancel-o {
     margin-top: 40px;
     font-family: 'Red Hat Display', sans-serif;
